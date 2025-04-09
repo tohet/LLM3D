@@ -1,0 +1,15 @@
+txt_test/
+txt_model_train/
+LongWriter/LongWriter-glm4-9b/
+LongWriter/LongWriter-llama3.1-8b/
+LongWriter/LongWriter-6k/
+backup_bs/
+trainer_output/
+blendswap_crawl/
+blendswap_crawl_new/3D-модели/
+LongWriter/LongWriter/data/llama3/longwriter/
+LongWriter/LongWriter/train/LongWriter-llama3.1-8b/
+LongWriter/LongWriter/train/multiprocess_data/
+LongWriter/LongWriter/train/output/llama3/longwriter/
+3d_utils/assets/
+wandb/
